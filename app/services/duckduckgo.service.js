@@ -30,5 +30,3 @@ export const newSearchService = async (query) => {
     }
   };
 };
-
-export const getSearchLogs = async () => {};
