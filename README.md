@@ -1,4 +1,4 @@
-# WEBSCRAPER -> Puppeteer and Duckduckgo
+# WEBSCRAPER -> Puppeteer and Duckduckgo Search Engine
 
 A simple node app that uses puppeteer to scrape search results from duckduckgo search engine through some API's
 
@@ -46,14 +46,6 @@ $ npm run dev
 
 Instructions on how to use my scraper API's can be found in the published API [documentation](https://documenter.getpostman.com/view/18859386/2s93JzMggJ)
 
-## Examples
-
-Provide some examples of how your scraper can be used, along with sample inputs and outputs.
-
-## License
-
-Choose an appropriate license for your code and include it in your README file. This can help protect your code and make it clear how others can use it.
-
 ## Contributors
 
 Some guidelines for contribution
@@ -82,7 +74,7 @@ This project uses the following libraries and frameworks:
 - [Express](https://expressjs.com/) - A popular Node.js framework for building web applications and APIs. [View the repository](https://github.com/expressjs/express)
 - [Puppeteer](https://pptr.dev/) - A Node.js library that provides a high-level API for controlling headless Chrome or Chromium over the DevTools Protocol. [View the repository](https://github.com/GoogleChrome/puppeteer)
 
-Note that not all packages, libraries or frameworks are included, but you can find all the packages used in the package.json file
+Note that not all packages, libraries or frameworks are included in this credit section as it could become messy, but you can find all the packages used in the package.json file
 
 ## Contact
 

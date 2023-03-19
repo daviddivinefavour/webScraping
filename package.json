@@ -2,7 +2,7 @@
   "name": "webscraping",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "build/server.js",
   "scripts": {
     "build": "babel app -d build",
     "dev": "babel --watch app -d build | NODE_ENV=development NODE_PATH=./build nodemon build/server.js",
