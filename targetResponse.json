@@ -1,0 +1,515 @@
+{    
+     "search_metadata":{
+        "id": "6415ef23f26ac6258d2725ee",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cabb1f3248b7f19c/6415ef23f26ac6258d2725ee.json",
+        "created_at": "2023-03-18 17:04:35 UTC",
+        "processed_at": "2023-03-18 17:04:35 UTC",
+        "duckduckgo_url": "https://duckduckgo.com/?q=ghost&kl=wt-wt",
+        "raw_html_file": "https://serpapi.com/searches/cabb1f3248b7f19c/6415ef23f26ac6258d2725ee.html",
+        "prettify_html_file": "https://serpapi.com/searches/cabb1f3248b7f19c/6415ef23f26ac6258d2725ee.prettify",
+        "total_time_taken": 2.62
+    },
+    "search_parameters":{
+        "engine": "duckduckgo",
+        "q": "ghost",
+        "kl": "wt-wt"
+    },
+    "search_information":{
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results":[
+        {
+            "position": 1,
+            "title": "Ghost - The Official Site",
+            "link": "https://ghost-official.com/",
+            "snippet": "Join our mailing list to get the latest news, tour updates, releases and more. You'll be the first to know. * indicates required",
+            "favicon": "https://external-content.duckduckgo.com/ip3/ghost-official.com.ico",
+            "sitelinks":
+            [
+                {
+                    "title": "Shop Merch",
+                    "link": "https://shop.ghost-official.com/",
+                    "snippet": "Official Ghost merchandise including t-shirts, accessories, and more."
+                }
+                ,
+                {
+                    "title": "Collections",
+                    "link": "https://shop.ghost-official.com/collections",
+                    "snippet": "choosing a selection results in a full page refresh; press the space key then arrow keys to make a selection"
+                }
+            ]
+        }
+        ,
+        {
+            "position": 2,
+            "title": "Ghost - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Ghost",
+            "snippet": "A ghost is the soul or spirit of a dead person or animal that is believed to be able to appear to the living. In ghostlore, descriptions of ghosts vary widely, from an invisible presence to translucent or barely visible wispy shapes to realistic, lifelike forms. The deliberate attempt to contact the spirit of a deceased person is known as ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/en.wikipedia.org.ico"
+        }
+        ,
+        {
+            "position": 3,
+            "title": "Ghost Definition & Meaning - Merriam-Webster",
+            "link": "https://www.merriam-webster.com/dictionary/ghost",
+            "snippet": "The meaning of GHOST is the seat of life or intelligence : soul. How to use ghost in a sentence.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.merriam-webster.com.ico"
+        }
+        ,
+        {
+            "position": 4,
+            "title": "Scary Ghost Videos - Ghost Caught On Camera - YouTube",
+            "link": "https://www.youtube.com/watch?v=SPSz7T1c80I",
+            "snippet": "In this top 5 ghost video countdown, we take a look at 5 supposedly real sightings that were caught on tape.If you liked this video, also check outGhosts Cau...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+        }
+        ,
+        {
+            "position": 5,
+            "title": "Justin Bieber - Ghost - YouTube",
+            "link": "https://www.youtube.com/watch?v=Fp8msa5uYsc",
+            "snippet": "Justice: The Complete Edition - https://JustinBieber.lnk.to/JusticeTheCompleteEdition Shop "Justice" merch - https://justinbieber.lnk.to/OfficialShop Follow ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+        }
+        ,
+        {
+            "position": 6,
+            "title": "Ghost (Swedish band) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Ghost_(Swedish_band)",
+            "snippet": "Ghost is a Swedish rock band that was formed in Linköping in 2006. In 2010, they released a three-track demo followed by a 7-inch vinyl titled "Elizabeth", and later their debut full-length album Opus Eponymous.The song "Ritual" was chosen by Kerrang! as one of "The 50 Most Evil Songs Ever." The Grammis-nominated album was widely praised and significantly increased their popularity.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/en.wikipedia.org.ico"
+        }
+        ,
+        {
+            "position": 7,
+            "title": "Ghost (1990) - IMDb",
+            "link": "https://www.imdb.com/title/tt0099653/",
+            "snippet": "Ghost: Directed by Jerry Zucker. With Patrick Swayze, Demi Moore, Tony Goldwyn, Stanley Lawrence. After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.imdb.com.ico"
+        }
+        ,
+        {
+            "position": 8,
+            "title": "Ghost: The Creator Economy Platform",
+            "link": "https://ghost.org/",
+            "snippet": "Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members. Try Ghost completely free for 14 days →",
+            "favicon": "https://external-content.duckduckgo.com/ip3/ghost.org.ico"
+        }
+        ,
+        {
+            "position": 9,
+            "title": "175 Synonyms & Antonyms of GHOST - Merriam-Webster",
+            "link": "https://www.merriam-webster.com/thesaurus/ghost",
+            "snippet": "Synonyms for GHOST: apparition, phantom, spirit, haunt, poltergeist, wraith, specter, spook; Antonyms of GHOST: angel",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.merriam-webster.com.ico"
+        }
+        ,
+        {
+            "position": 10,
+            "title": "Ghost Detector Radar Camera 17+ - App Store",
+            "link": "https://apps.apple.com/us/app/ghost-detector-radar-camera/id1247862561",
+            "snippet": "iPhone. iPad. Find ghosts and communicate with spirits, using this app's groundbreaking ultra-realistic experience. The only ghost detector app that shows you detected ghosts like they are actually floating in your home. = Instructions =. 1) Start the app. 2) Walk around and find a ghost. 3) Select a question and wait for the spirit to answer.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/apps.apple.com.ico"
+        }
+        ,
+        {
+            "position": 11,
+            "title": "Ghost - Rotten Tomatoes",
+            "link": "https://www.rottentomatoes.com/m/1031086-ghost",
+            "snippet": "Sam Wheat (Patrick Swayze) is a banker, Molly Jensen (Demi Moore) is an artist, and the two are madly in love. However, when Sam is murdered by friend and corrupt business partner Carl Bruner ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.rottentomatoes.com.ico"
+        }
+        ,
+        {
+            "position": 12,
+            "title": "Ghost: the definitive guide to every member of their universe - loudersound",
+            "link": "https://www.loudersound.com/features/the-ghost-family-tree",
+            "snippet": "Ghost have long been shrouded in mysterious shenanigans. As well as the largely anonymous Nameless Ghouls that make up the bulk of the band, with each passing album, Ghost mastermind Tobias Forge has introduced a ghastly lead character to front the fold, starting back in 2010 with Papa Emeritus I for debut album Opus Eponymous.After Papas II and III followed for Infestissumam and Meliora ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.loudersound.com.ico"
+        }
+        ,
+        {
+            "position": 13,
+            "title": "History of Ghost Stories",
+            "link": "https://www.history.com/topics/halloween/historical-ghost-stories",
+            "snippet": "Since ancient times, ghost stories—tales of spirits who return from the dead to haunt the places they left behind—have figured prominently in the folklore of many cultures around the world.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.history.com.ico"
+        }
+        ,
+        {
+            "position": 14,
+            "title": "Ghost Definition & Meaning | Dictionary.com",
+            "link": "https://www.dictionary.com/browse/ghost",
+            "snippet": "Ghost definition, the soul of a dead person, a disembodied spirit imagined, usually as a vague, shadowy or evanescent form, as wandering among or haunting living persons. See more.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.dictionary.com.ico"
+        }
+        ,
+        {
+            "position": 15,
+            "title": "Ghost | spirit | Britannica",
+            "link": "https://www.britannica.com/topic/ghost-spirit",
+            "snippet": "ghost, soul or spectre of a dead person, usually believed to inhabit the netherworld and to be capable of returning in some form to the world of the living. According to descriptions or depictions provided by believers, a ghost may appear as a living being or as a nebulous likeness of the deceased or, occasionally, in other forms. Belief in ghosts is based on the ancient notion that a human ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.britannica.com.ico"
+        }
+        ,
+        {
+            "position": 16,
+            "title": "The Most Famous Ghosts In American History - Grunge.com",
+            "link": "https://www.grunge.com/71951/famous-ghosts-american-history/",
+            "snippet": "Probably the most famous ghost in American history is the Bell Witch, a poltergeist who basically trolled the heck out of the Bell family of Adams, Tennessee, from 1817 to 1821. According to the official site, a spirit claiming to be "Old Kate Batts's witch" drove John Bell, Sr. and his kids to the brink of insanity with typical poltergeist ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.grunge.com.ico"
+        }
+        ,
+        {
+            "position": 17,
+            "title": "Ghost: Explanation, Types, Famous Ghosts and Holidays - Mythology.net",
+            "link": "https://mythology.net/mythical-creatures/ghost/",
+            "snippet": "In fact, the word 'spirit comes from the Latin word 'spiritus' which meant 'breath' or 'blast.'. The word 'ghost', however, has a very different origin. It comes from the word 'ghoisdo-s' and means 'fury' or 'rage.'. This is very telling of the ancient perceptions of ghosts. While 'ghost' is commonly used ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/mythology.net.ico"
+        }
+        ,
+        {
+            "position": 18,
+            "title": "Ghost - definition of ghost by The Free Dictionary",
+            "link": "https://www.thefreedictionary.com/ghost",
+            "snippet": "Define ghost. ghost synonyms, ghost pronunciation, ghost translation, English dictionary definition of ghost. ) n. 1. The spirit of a dead person, especially one that is believed to appear to the living in bodily form or to haunt specific locations. 2.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.thefreedictionary.com.ico"
+        }
+        ,
+        {
+            "position": 19,
+            "title": "Ghost Facts: 10 Things You Need To Know - uDiscover Music",
+            "link": "https://www.udiscovermusic.com/stories/ghost-swedish-heavy-metal-band-facts/",
+            "snippet": "Ghost are perfect enigmas. Here are ten facts you need to know about Sweden's heavy metal icons. Image goes hand in hand with music, whether it's the skinny black jeans and white hi-tops of ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.udiscovermusic.com.ico"
+        }
+        ,
+        {
+            "position": 20,
+            "title": "GHOST | English meaning - Cambridge Dictionary",
+            "link": "https://dictionary.cambridge.org/dictionary/english/ghost",
+            "snippet": "ghost definition: 1. the spirit of a dead person, sometimes represented as a pale, almost transparent image of that…. Learn more.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/dictionary.cambridge.org.ico"
+        }
+        ,
+        {
+            "position": 21,
+            "title": "Ghost (1990) - Parents Guide - IMDb",
+            "link": "https://www.imdb.com/title/tt0099653/parentalguide",
+            "snippet": "Sex & Nudity. As they are remodeling their loft apartment, two men are seen bare chested. Both are in good shape, but one man is particularly well developed. While Molly is molding a clay pot, Sam tries to touch her, ruining the pottery. He asks to help, and then helps Molly reshape the clay, after which they passionately kiss and both caress ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.imdb.com.ico"
+        }
+        ,
+        {
+            "position": 22,
+            "title": "GHOST Synonyms: 27 Synonyms & Antonyms for GHOST | Thesaurus.com",
+            "link": "https://www.thesaurus.com/browse/ghost",
+            "snippet": "Find 27 ways to say GHOST, along with antonyms, related words, and example sentences at Thesaurus.com, the world's most trusted free thesaurus.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.thesaurus.com.ico"
+        }
+        ,
+        {
+            "position": 23,
+            "title": "Amazon.com: Ghost",
+            "link": "https://www.amazon.com/Ghost/s?k=Ghost",
+            "snippet": "From $399 to rent. From $9.99 to buy. Or $0.00 with a Prime membership. Starring: Stephen Twardokus , Jon Gale , Liesel Kopp and Wendy Haines. Directed by: Derek Cole.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.amazon.com.ico"
+        }
+    ],
+    "knowledge_graph":{
+        "title": "Ghost",
+        "description": "A ghost is the soul or spirit of a dead person or animal that is believed to be able to appear to the living. In ghostlore, descriptions of ghosts vary widely, from an invisible presence to translucent or barely visible wispy shapes to realistic, lifelike forms. The deliberate attempt to contact the spirit of a deceased person is known as necromancy, or in spiritism as a séance. Other terms associated with it are apparition, haunt, phantom, poltergeist, shade, specter, spirit, spook, wraith, demon, and ghoul. The belief in the existence of an afterlife, as well as manifestations of the spirits of the dead, is widespread, dating back to animism or ancestor worship in pre-literate cultures. Certain religious practices—funeral rites, exorcisms, and some practices of spiritualism and ritual magic—are specifically designed to rest the spirits of the dead.",
+        "thumbnail": "https://duckduckgo.com/i/b8d48dec.png",
+        "related_topics":
+        [
+            {
+                "query": "Hauntology - Hauntology is a range of ideas referring to the return or persistence of elements from the social or cultural past, as in the manner of a ghost. The term is a neologism first introduced by French philosopher Jacques Derrida in his 1993 book Specters of Marx.",
+                "link": "https://duckduckgo.com/Hauntology"
+            }
+            ,
+            {
+                "query": "Paranormal activity - Paranormal events are purported phenomena described in popular culture, folk, and other non-scientific bodies of knowledge, whose existence within these contexts is described as being beyond the scope of normal scientific understanding.",
+                "link": "https://duckduckgo.com/Paranormal"
+            }
+            ,
+            {
+                "query": "Spiritism - Spiritism is an 1885 book by German philosopher Eduard von Hartmann, the author of the famous treatise Philosophy of the Unconscious. In professor Corinna Treitel's opinion, publication of this book became one of the "key events" in history of the "German occult movement."",
+                "link": "https://duckduckgo.com/Spiritism_(book)"
+            }
+            ,
+            {
+                "query": "Spirit photography - Spirit photography is a type of photography whose primary goal is to capture images of ghosts and other spiritual entities, especially in ghost hunting. It dates back to the late 19th century.",
+                "link": "https://duckduckgo.com/Spirit_photography"
+            }
+            ,
+            {
+                "query": "Susulu (mythology) - Susulu is a legendary aquatic creature with the upper body of a female human and the tail of a fish. Also known as Suna or Sona. She is the daughter of the Sea King.",
+                "link": "https://duckduckgo.com/Susulu_(mythology)"
+            }
+            ,
+            {
+                "query": "La Llorona - La Llorona is a Hispanic-American mythical vengeful ghost who is said to roam near bodies of water mourning her children whom she drowned.",
+                "link": "https://duckduckgo.com/La_Llorona"
+            }
+            ,
+            {
+                "query": "Paranormal terminology",
+                "link": "https://duckduckgo.com/c/Paranormal_terminology"
+            }
+            ,
+            {
+                "query": "Afterlife",
+                "link": "https://duckduckgo.com/c/Afterlife"
+            }
+            ,
+            {
+                "query": "Ghosts",
+                "link": "https://duckduckgo.com/c/Ghosts"
+            }
+        ]
+    }
+    ,
+    "news_results":[
+        {
+            "position": 1,
+            "title": "Ghost signs: Bradford's faded adverts photographed",
+            "link": "https://www.bbc.com/news/av/uk-england-leeds-64995793",
+            "snippet": "The flaky remnants of advertisements painted onto the walls of Bradford buildings years ago are being documented by a photographer. Known as ghost signs, images of the faded adverts for cigarettes, medicines and even a cinema have been put together in a fanzine by Jenna Greenwood.",
+            "source": "BBC",
+            "date": "1 hour ago",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/197A/production/_129022560_p0f9fdw2.jpg"
+        }
+        ,
+        {
+            "position": 2,
+            "title": "'Power Book II: Ghost': Mary J. Blige Talks Monet's Grief In Season 3; Collabing Musically Again With Method Man",
+            "link": "https://deadline.com/2023/03/power-book-ii-ghost-mary-j-blige-season-3-spoilers-interview-1235303718/",
+            "snippet": "The following story reveals major plot points from the Season 3 premiere of Starz's Power Book II: Ghost. Power Book II: Ghost dropped its third season premiere on Friday",
+            "source": "Deadline.com",
+            "date": "11 hours ago",
+            "thumbnail": "https://deadline.com/wp-content/uploads/2023/03/mary-j-blige-monet-tejada-and-michael-rainey-jr.-tariq-st.-patrick-.jpg?w=1024"
+        }
+        ,
+        {
+            "position": 3,
+            "title": "Ghost's new anonymous group messaging app has ChatGPT baked in",
+            "link": "https://news.yahoo.com/ghost-debuts-anonymous-group-messaging-172149431.html",
+            "snippet": "To test this theory, the company has now launched its Ghost messaging app that allows users to share an anonymous message in a group chat with friends in order to flirt, joke or ask questions without revealing their identity.",
+            "source": "YAHOO!News",
+            "date": "3 days ago",
+            "thumbnail": "https://media.zenfs.com/en/techcrunch_350/e249ed594008571fd9e6f589fc64e7bd"
+        }
+        ,
+        {
+            "position": 4,
+            "title": "Power Book II: Ghost's [Spoiler] Returns From the Dead! Cast, EP React to Season 3 Premiere Reveal — Watch",
+            "link": "https://www.aol.com/entertainment/power-book-ii-ghosts-spoiler-020232600.html",
+            "snippet": "Ghost premiere. Proceed accordingly. Fans of Power and its many spinoffs love to speculate that the series' frequent character deaths won't stick. In the case of one of the franchise's characters, we learned Friday,",
+            "source": "AOL",
+            "date": "6 hours ago",
+            "thumbnail": "https://media.zenfs.com/en/aol_tvline_com_892/437462b3eae16caee6787cf41d16dfe7"
+        }
+    ],
+    "news_results_link": "https://duckduckgo.com/?q=ghost&kl=wt-wt&iar=news&ia=news",
+    "inline_images":[
+        {
+            "position": 1,
+            "title": "ghost | I365Art",
+            "link": "http://i365art.com/?tag=ghost",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.M-8HQWY61PjeiVhZAflbDgHaH2&pid=Api",
+            "image": "http://i365art.com/wp-content/uploads/2012/10/oct-14.jpg"
+        }
+        ,
+        {
+            "position": 2,
+            "title": "Grey Skies: Ghost Mommy",
+            "link": "http://greyskiesnyc.blogspot.com/2012/07/ghost-mommy.html",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.mciM0ch2wP3m3drq_S-bpgHaHe&pid=Api",
+            "image": "http://2.bp.blogspot.com/-yFCUcUObQ6Y/T-zPlYkHgTI/AAAAAAAAAXk/K0Il9J-jr6w/s1600/Medieval_ghost.jpg"
+        }
+        ,
+        {
+            "position": 3,
+            "title": "Craigslist Ghosting and Flagging | Online Marketing Tips",
+            "link": "http://activerain.com/blogsview/3716419/craigslist-ghosting-and-flagging----online-marketing-tips",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.l34k-VDSd1r0Nmt-tbQcVgHaHa&pid=Api",
+            "image": "http://1.bp.blogspot.com/-f6If8DyVXko/UYUZ-W0VNgI/AAAAAAAAI6A/vbOJqCjmbUg/s1600/shutterstock_80467249.jpg"
+        }
+        ,
+        {
+            "position": 4,
+            "title": "There's a New "Ghosted" Halloween Costume . . . Yeah, the Dating Term ...",
+            "link": "https://www.951wayv.com/theres-a-new-ghosted-halloween-costume-yeah-the-dating-term/",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.SI-fVEt1j5RoxCWrJmwpFgHaEj&pid=Api",
+            "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/114/2018/09/24143858/shutterstock_735136855.jpg"
+        }
+        ,
+        {
+            "position": 5,
+            "title": "Image of green sheet ghost | CreepyHalloweenImages",
+            "link": "http://creepyhalloweenimages.com/free_halloween_photos/ghosts/slides/green_sheet_ghost.htm",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.R_2dEQHrKCFeKOn_Tg-KUgHaE7&pid=Api",
+            "image": "http://creepyhalloweenimages.com/free_halloween_photos/ghosts/green_sheet_ghost.jpg"
+        }
+        ,
+        {
+            "position": 6,
+            "title": "Hanging LightUp Ghost 153M 2 Asstd 1 Supplied - Ghost Ghouls Monsters",
+            "link": "https://www.props4shows.co.uk/ghost_ghouls__monsters/hanging_lightup_ghost__153m_2_asstd_1_supplied/34421_p.html",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.z3bSYIHzzpDHLIi2taurzgHaIW&pid=Api",
+            "image": "https://www.props4shows.co.uk/Portals/1/product/images/prd9888d100-b64e-4111-9a61-44f1bb664208.jpg"
+        }
+        ,
+        {
+            "position": 7,
+            "title": "Floating Robes: Real life ghosts?",
+            "link": "https://floatingrobes.blogspot.com/2010/11/real-life-ghosts.html",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.26rIexFOGkv6yGuFc7gOrAHaKh&pid=Api",
+            "image": "https://3.bp.blogspot.com/_NNh20QIWHck/TPGgcnycojI/AAAAAAAAAC4/xcQFERfVpv0/s1600/casper-the-friendly-ghost.jpg"
+        }
+        ,
+        {
+            "position": 8,
+            "title": "TikTok Ghost Photoshoot - But Make it Canadian ft. Tim Hortons",
+            "link": "https://cfournellphotography.com/tiktok-ghost-photoshoot/",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.GceuUAD5Eg3143qYWDLIgAHaLG&pid=Api",
+            "image": "https://cfournellphotography.com/wp-content/uploads/sites/4288/2020/10/2020-10-07_0002-scaled.jpg"
+        }
+        ,
+        {
+            "position": 9,
+            "title": "Word of the Week: Ghost | Balance Media",
+            "link": "https://www.balancemedia.co.uk/2020/08/14/word-of-the-week-ghost/",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.w4hFk7TWo5cAfG7QLlcQkgHaEc&pid=Api",
+            "image": "https://www.balancemedia.co.uk/wp-content/uploads/2020/09/ghost.jpg"
+        }
+        ,
+        {
+            "position": 10,
+            "title": "TikTok Ghost Photoshoot - But Make it Canadian ft. Tim Hortons",
+            "link": "https://cfournellphotography.com/tiktok-ghost-photoshoot/",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.4ymy26ND_DUVDvJYSVSK3QHaLG&pid=Api",
+            "image": "https://cfournellphotography.com/wp-content/uploads/sites/4288/2020/10/2020-10-07_0006-scaled.jpg"
+        }
+        ,
+        {
+            "position": 11,
+            "title": "TikTok Ghost Photoshoot - But Make it Canadian ft. Tim Hortons",
+            "link": "https://cfournellphotography.com/tiktok-ghost-photoshoot/",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.Of9OVOJvJvjWW86zu047QQHaLG&pid=Api",
+            "image": "https://cfournellphotography.com/wp-content/uploads/sites/4288/2020/10/2020-10-07_0007-scaled.jpg"
+        }
+        ,
+        {
+            "position": 12,
+            "title": "David Lowery Got Personal For A Ghost Story | Contactmusic.com",
+            "link": "http://www.contactmusic.com/david-lowery/news/david-lowery-a-ghost-story_5752701",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.eTOlCY3fi9UFQx-9g85rLAHaEc&pid=Api",
+            "image": "http://www.contactmusic.com/images/feature-images/a-ghost-story-01-700-420.jpg"
+        }
+        ,
+        {
+            "position": 13,
+            "title": "Best Ghost Hunting and Paranormal Equipment on Amazon",
+            "link": "https://vocal.media/horror/best-ghost-hunting-and-paranormal-equipment-on-amazon",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.8dDjmFA3zpZPsth1yqi_zAHaEK&pid=Api",
+            "image": "https://res.cloudinary.com/jerrick/image/upload/c_scale,q_auto/oqmqw9ijuyzfdhqfnpu5.jpg"
+        }
+        ,
+        {
+            "position": 14,
+            "title": "Bridgnorth's annual Ghost Walk makes its spooky big screen debut ...",
+            "link": "https://www.shropshirestar.com/entertainment/bridgnorth-entertainment/2020/10/16/bridgnorths-annual-ghost-walk-makes-its-spooky-big-screen-debut/",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.unbw0dnxWBR5TNTZW5K3BgHaJ4&pid=Api",
+            "image": "https://www.shropshirestar.com/resizer/uXqEipKz-ViRPz0RITbq0-d8C0A=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/HUGS7OJNXNFXTDV4GPLYB2VPOY.jpg"
+        }
+        ,
+        {
+            "position": 15,
+            "title": "ghost - Halloween-errific",
+            "link": "https://halloweenerrific.co.uk/halloween-decorations/asda-megapost/attachment/ghost",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.AE1-L-Ko48lnt3wuVSQKwgHaJ4&pid=Api",
+            "image": "https://halloweenerrific.co.uk/wp-content/uploads/2009/09/ghost.jpg"
+        }
+        ,
+        {
+            "position": 16,
+            "title": "The GHASTLY GHOSTLY affair - The Lens of BUDDHA",
+            "link": "https://lensofbuddha.wordpress.com/2020/02/08/the-ghastly-ghostly-affair/",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.Xb0l90ER-EJ-Y6kkgJNhhAHaNJ&pid=Api",
+            "image": "https://lensofbuddha.files.wordpress.com/2020/02/ghost-blue.jpg"
+        }
+        ,
+        {
+            "position": 17,
+            "title": "301 Moved Permanently",
+            "link": "http://wdfyfe.wordpress.com/2011/03/28/8-simple-rules-for-ghosts/",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP._XKmHYwmc1-VWm0mXVm5YgAAAA&pid=Api",
+            "image": "http://wdfyfe.files.wordpress.com/2011/03/ghost.jpg"
+        }
+        ,
+        {
+            "position": 18,
+            "title": "Ghost announce 2018 tour",
+            "link": "https://www.brooklynvegan.com/ghost-announce-2018-tour/",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.NxxH6e7lXDQRCPnWmk6KUgHaE8&pid=Api",
+            "image": "https://townsquare.media/site/838/files/2017/07/ironmaiden-barclayscenter-18.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        }
+        ,
+        {
+            "position": 19,
+            "title": "Guest Post: an Overview of the Italian indie ebook market, pt. 1 ...",
+            "link": "https://karavansara.live/2018/08/31/guest-post-an-overview-of-the-italian-indie-ebook-market-pt-1/",
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.M3eiKQSJa9rSkGiqJ6UR4gAAAA&pid=Api",
+            "image": "https://karavansara.files.wordpress.com/2018/08/ghost.jpg?w=300&h=247"
+        }
+    ]
+    ,
+    "inline_images_link": "https://duckduckgo.com/?q=ghost&kl=wt-wt&iax=images&ia=images",
+    "related_searches":[
+        {
+            "query": "winston churchill abraham lincoln ghost",
+            "link": "https://duckduckgo.com/?q=winston%20churchill%20abraham%20lincoln%20ghost"
+        }
+        ,
+        {
+            "query": "ghost band website",
+            "link": "https://duckduckgo.com/?q=ghost%20band%20website"
+        }
+        ,
+        {
+            "query": "ghost rider movie release date",
+            "link": "https://duckduckgo.com/?q=ghost%20rider%20movie%20release%20date"
+        }
+        ,
+        {
+            "query": "ghost 1990 full movie video",
+            "link": "https://duckduckgo.com/?q=ghost%201990%20full%20movie%20video"
+        }
+        ,
+        {
+            "query": "ghost patrick swayze movie",
+            "link": "https://duckduckgo.com/?q=ghost%20patrick%20swayze%20movie"
+        }
+        ,
+        {
+            "query": "ghost patrick swayze",
+            "link": "https://duckduckgo.com/?q=ghost%20patrick%20swayze"
+        }
+        ,
+        {
+            "query": "ghost series cast",
+            "link": "https://duckduckgo.com/?q=ghost%20series%20cast"
+        }
+        ,
+        {
+            "query": "ghosts tv show",
+            "link": "https://duckduckgo.com/?q=ghosts%20tv%20show"
+        }
+    ]
+    ,
+    "serpapi_pagination":{
+        "next": "https://serpapi.com/search.json?engine=duckduckgo&kl=wt-wt&q=ghost&start=23"
+    }
+}
