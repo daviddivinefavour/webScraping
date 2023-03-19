@@ -1,25 +1,25 @@
+import moment from 'moment';
 import { SEARCH_ENGINES } from '../data/constants';
-import { returnResult } from '../utils/response';
 import scraper from './puppeteerService';
 
-export const newSearchService = async (query, options) => {
+export const newSearchService = async (query) => {
   const searchEngine = SEARCH_ENGINES.duckduckgo;
 
   const results = await scraper(searchEngine, query);
-  if (!results?.type) {
-    return returnResult(false, {
+  if (!results) {
+    return {
       status: 400,
-      message: results.message || 'An error occured'
-    });
+      message: 'No results found.'
+    };
   }
 
-  return returnResult(true, {
+  return {
     status: 200,
     message: 'Completed new search',
     data: {
       search_metadata: {
         status: 'Success',
-        created_at: new Date(),
+        created_at: moment(),
         duckduckgo_url: `${searchEngine}/?q=${query}&t=h_&ia=web`
       },
       search_parameters: {
@@ -28,7 +28,7 @@ export const newSearchService = async (query, options) => {
       },
       search_results: results
     }
-  });
+  };
 };
 
 export const getSearchLogs = async () => {};
