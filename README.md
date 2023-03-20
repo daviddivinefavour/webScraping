@@ -1,6 +1,6 @@
 # WEBSCRAPER -> Puppeteer and Duckduckgo Search Engine
 
-A simple node app that uses puppeteer to scrape search results from duckduckgo search engine through some API's
+A simple node app that uses puppeteer to scrape search results from duckduckgo search engine.
 
 ## Getting Started
 
